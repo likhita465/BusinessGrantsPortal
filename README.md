@@ -85,3 +85,7 @@ Negative scenario
     And the Applicant has already successfully submitted the Application
     When the Applicant attempts to submit the same Application again
     Then the system should prevent the duplicate submission and show an appropriate message
+
+Test Report:
+------------
+<img width="959" alt="image" src="https://github.com/likhita465/BusinessGrantsPortal/assets/150339768/2aa66a92-6b42-492e-8de9-765262e2bb96">
